@@ -11,9 +11,8 @@ body {
   line-height: 1.3;
   width: 18em;
   color: #555;
-  /*font-size: 1.125rem;*/
   font-weight: normal;
-  margin: 0 1em;
+  margin: 0 1em 1em;
 }
 
 article h1 {
@@ -37,6 +36,7 @@ article header {
 
 blockquote {
   color: #555;
+  font-size: 1.125rem
 }
 
 article ol {
