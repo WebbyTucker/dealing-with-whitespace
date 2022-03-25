@@ -13,29 +13,30 @@ body {
   color: #555;
   font-size: 1.125rem;
   font-weight: normal;
+  margin: 1em;
 }
 
-h1 {
-  font-size: 1.5rem;
+article h1 {
+  font-size: 1.5em;
   margin: 0px;
   color: #222;
 }
 
-header p {
+article header p {
   margin: 0px 0px 1px;
   font-style: italic;
 }
 
-header {
+article header {
   border-bottom: 2px solid #999;
 }
 
-blockquote {
+.quote {
   color: #999;
 }
 
-ol {
-  padding: 0rem 1rem;
+article ol {
+  padding: 0em 1em;
 }
 
 article {
