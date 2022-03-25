@@ -13,7 +13,7 @@ body {
   color: #555;
   font-size: 1.125rem;
   font-weight: normal;
-  margin: 0 0 1em;
+  margin: 1em;
 }
 
 article h1 {
@@ -35,10 +35,18 @@ article header {
   color: #999;
 }
 
+blockquote {
+  color: #555;
+}
+
 article ol {
   padding: 0 1em;
 }
 
 article {
   border-bottom: 2px solid #999;
+}
+
+article p {
+  color: #555;
 }
