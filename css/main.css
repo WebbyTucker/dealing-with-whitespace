@@ -13,17 +13,17 @@ body {
   color: #555;
   font-size: 1.125rem;
   font-weight: normal;
-  margin: 1em;
+  margin: 0 0 1em;
 }
 
 article h1 {
   font-size: 1.5em;
-  margin: 0px;
+  margin: 0;
   color: #222;
 }
 
 article header p {
-  margin: 0px 0px 1px;
+  margin: 0 0 1px;
   font-style: italic;
 }
 
@@ -36,7 +36,7 @@ article header {
 }
 
 article ol {
-  padding: 0em 1em;
+  padding: 0 1em;
 }
 
 article {
