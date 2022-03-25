@@ -13,7 +13,7 @@ body {
   color: #555;
   font-size: 1.125rem;
   font-weight: normal;
-  margin: 1em;
+  margin: 0 0 1em;
 }
 
 article h1 {
@@ -23,7 +23,7 @@ article h1 {
 }
 
 article header p {
-  margin: 0 0 1px;
+  margin: 0 0 1em;
   font-style: italic;
 }
 
